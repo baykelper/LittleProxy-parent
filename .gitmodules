@@ -1,8 +1,8 @@
 [submodule "LittleProxy"]
 	path = LittleProxy
-	url = https://github.com/ganskef/LittleProxy.git
+	url = https://github.com/baykelper/LittleProxy.git
 	branch = enable_offline_caching_with_mitm
 [submodule "LittleProxy-mitm"]
 	path = LittleProxy-mitm
-	url = https://github.com/ganskef/LittleProxy-mitm.git
+	url = https://github.com/baykelper/LittleProxy-mitm.git
 	branch = enable_offline_caching_with_mitm
