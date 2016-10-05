@@ -1,0 +1,6 @@
+[submodule "LittleProxy"]
+	path = LittleProxy
+	url = https://github.com/baykelper/LittleProxy.git
+[submodule "LittleProxy-mitm"]
+	path = LittleProxy-mitm
+	url = https://github.com/baykelper/LittleProxy-mitm.git
