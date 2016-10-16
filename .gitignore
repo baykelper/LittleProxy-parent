@@ -17,3 +17,6 @@ Thumbs.db
 # InteliJ project files
 .idea
 *.iml
+littleproxy-mitm.p12
+littleproxy-mitm.pem
+log.txt
